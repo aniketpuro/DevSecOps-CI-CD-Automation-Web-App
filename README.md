@@ -1,5 +1,4 @@
 # DevSecOps-CI-CD-Automation-Web-App
-Here is a **clear, correct, and unambiguous `README.md` file** in **Markdown** for your Jenkins + Trivy setup project. Every command and explanation has been cross-verified for correctness and best practices:
 
 ---
 
